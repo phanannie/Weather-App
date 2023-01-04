@@ -8,9 +8,9 @@ The project consists of a search bar. The user enters the desired city into the 
 
 In case, the city exits, we display the weather information for that particular city. This information includes:
 
-- `-City name`
-- `-temperature`
-- `-weather icon`
+- `City name`
+- `temperature`
+- `weather icon`
 - `maximum temperature`
 - `minimum temperature`
 
