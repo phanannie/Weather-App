@@ -1,4 +1,4 @@
-# Weather app
+# Weather App
 Weather app made with HTML, CSS and Javascript using an [Open Weather API](https://openweathermap.org/api) with basic knowledge of fetch(). 
 
 ## How It Works
